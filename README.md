@@ -7,6 +7,13 @@
 
 ---
 
+## 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burhan_Ul_Din-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-burhangi-black?style=flat&logo=github)](https://github.com/burhangi)
+
+---
+
 ## 🎯 Summary
 Forward-thinking IT professional specializing in **Python/Django** with expertise in **Machine Learning**, **Deep Learning**, and **Generative AI**. Experienced in creating dynamic web applications and interactive chatbots. Skilled in data visualization and real-time data applications.
 
@@ -81,15 +88,6 @@ Dashboard for sales visualization and analysis.
 
 ## 📈 Stats
 ![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhangi&show_icons=true&hide_title=true&count_private=true&theme=radical) <!-- Add your stats image -->
-
----
-
-## 🎉 Let's Connect!
-Feel free to reach out if you're interested in collaboration or learning more about my projects!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burhan_Ul_Din-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-burhangi-black?style=flat&logo=github)](https://github.com/burhangi)
 
 ---
 
