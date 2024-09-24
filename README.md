@@ -1,29 +1,51 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 👋 Hello, I'm **Burhan Ul Din**!
 
-![Avatar](https://your-avatar-image-url) <!-- Replace with your actual image URL -->
-
-**Python/Django & AI Developer**  
-*Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast*  
-*Business Intelligence Expert (Power BI)*
+[![My Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-FF5733?style=flat&logo=appveyor&logoColor=white)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
 
 ---
 
 ## 📚 About Me
 
-I am a passionate IT graduate with expertise in **Python**, **Django**, and **Machine Learning**, specializing in **Business Intelligence** using **Power BI** and **Generative AI**. My professional AI training at **Xeven Solutions** equipped me with hands-on experience in cutting-edge technologies and tools.
+I am a **Python/Django & AI Developer** passionate about harnessing technology to create impactful solutions. My expertise lies in **Machine Learning**, **Deep Learning**, and **Generative AI**. I specialize in **Business Intelligence** using **Power BI**.
+
+![Modern Tech](https://www.example.com/your-image-url.jpg) <!-- Replace with a modern technology image URL -->
+
+With a strong foundation in Python and hands-on experience from **Xeven Solutions**, I thrive on solving complex problems and transforming data into actionable insights. My goal is to leverage my skills in AI and data visualization to drive business success.
 
 ---
 
 ## 🛠️ Key Skills
 
-| Skill Category       | Skills                                                            |
-|----------------------|-------------------------------------------------------------------|
-| **Programming**      | Python, JavaScript, SQL                                           |
-| **Web Development**  | Django, HTML5, CSS3, Basic React, React Native, Bootstrap        |
-| **Machine Learning**  | Deep Learning, Generative AI (Hugging Face, OpenAI, LangChain)   |
-| **Data Visualization**| Power BI, Seaborn, Matplotlib, Pandas, NumPy, TensorFlow         |
-| **Data Analytics**   | Exploratory Data Analysis (EDA), Power BI                        |
-| **Databases**        | SQL, SQLite                                                      |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=white) |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Programming**: Python, JavaScript, SQL                                                        | **Web Development**: Django, HTML5, CSS3, Basic React, Bootstrap                                   | **Data Visualization**: Power BI, Seaborn, Matplotlib, Pandas, NumPy, TensorFlow                                  |
+| **Machine Learning**: Deep Learning, Generative AI (Hugging Face, OpenAI, LangChain)          | **Data Analytics**: Exploratory Data Analysis (EDA), Power BI                                       | **Databases**: SQL, SQLite                                                                                       |
+
+---
+
+## 📈 My Work
+
+### Projects
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| **Django EShop** | E-commerce platform built using Django | [View Project](#) |
+| **Django EduSite** | Educational platform for online courses | [View Project](#) |
+| **Disease Prediction** | Machine Learning model for disease prediction | [View Project](#) |
+| **Document QA Chatbot** | Chatbot using LangChain, OpenAI, and Hugging Face | [View Project](#) |
+| **Law GPT** | Legal GPT using LangChain and OpenAI | [View Project](#) |
+| **Healthcare Chatbot** | Chatbot for healthcare queries using AI | [View Project](#) |
+| **Amazon Data Analysis** | Power BI dashboard for Amazon sales data | [View Project](#) |
+| **Power BI Sales Dashboard** | Sales analytics dashboard in Power BI | [View Project](#) |
+
+### 📊 Graphical Representation of My Skills
+
+![Skills Graph](https://www.example.com/skills-graph.jpg) <!-- Replace with a skills graph image URL -->
+
+### 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact) <!-- Replace with your GitHub username -->
 
 ---
 
@@ -46,34 +68,9 @@ I am a passionate IT graduate with expertise in **Python**, **Django**, and **Ma
 
 ---
 
-## 💡 Projects
+## 🌟 Looking for Opportunities
 
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Django EShop | E-commerce platform built using Django | [View Project](#) |
-| Django EduSite | Educational platform for online courses | [View Project](#) |
-| Disease Prediction | Machine Learning model for disease prediction | [View Project](#) |
-| Document QA Chatbot | Chatbot using LangChain, OpenAI, and Hugging Face | [View Project](#) |
-| Law GPT | Legal GPT using LangChain and OpenAI | [View Project](#) |
-| Healthcare Chatbot | Chatbot for healthcare queries using AI | [View Project](#) |
-| Amazon Data Analysis | Power BI dashboard for Amazon sales data | [View Project](#) |
-| Power BI Sales Dashboard | Sales analytics dashboard in Power BI | [View Project](#) |
-
----
-
-## 🏆 Certifications
-
-- [Web Application Technologies and Django, University of Michigan - Coursera](https://www.coursera.org/)
-- [Generative AI for Everyone, DeepLearning.AI - Coursera](https://www.coursera.org/)
-- [A Crash Course in Data Science, Johns Hopkins University - Coursera](https://www.coursera.org/)
-- [Exploratory Data Analysis for Machine Learning - Coursera](https://www.coursera.org/)
-
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact) <!-- Replace with your GitHub username -->
+I am currently seeking opportunities in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Business Intelligence** to leverage my skills in creating impactful solutions.
 
 ---
 
@@ -85,10 +82,4 @@ I am a passionate IT graduate with expertise in **Python**, **Django**, and **Ma
 
 ---
 
-## 🌟 Looking for Opportunities
-
-I am currently seeking opportunities in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Business Intelligence** to leverage my skills in creating impactful solutions.
-
----
-
-Thank you for visiting my profile! 🚀
+Thank you for visiting my profile! 🌟
