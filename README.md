@@ -1,15 +1,15 @@
 <h1 align="center">Burhan 🧑‍💻</h1>
 
-**Machine Learning Engineer | AI & Data Science Enthusiast | Python Developer | Data Visualization | Web Development | Deep Learning | Generative AI | Django | Streamlit**
+**Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast | Business Intelligence Expert (Power BI)**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/) <!-- Portfolio link -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) <!-- LinkedIn -->
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/burhangi/burhangi/blob/main/README.md) <!-- GitHub -->
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Resume link (if applicable) -->
   
-📍 **Location: [Your City], [Your Country]**  
-📞 **Contact: [Your Phone Number]** <!-- Update with your actual phone number -->
-📧 **Email: [your.email@example.com]** <!-- Update with your actual email -->
+📍 **Location: [Lahore ], [Pakistan]**  
+📞 **Contact: [03456814624]** <!-- Update with your actual phone number -->
+📧 **Email: [burhanuldin077@gmail.com]** <!-- Update with your actual email -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
