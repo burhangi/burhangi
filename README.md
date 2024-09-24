@@ -1,110 +1,15 @@
-# 👋 Hi, I'm **Burhan Ul Din** 
-![Profile Banner](https://your-image-url.com/banner-image.png) <!-- Replace with your actual banner image URL -->
+<h1 align="center">Burhan 🧑‍💻</h1>
 
-🌍 Based in **Lahore, Punjab, Pakistan**  
-📧 Email: [burhanuldin077@gmail.com](mailto:burhanuldin077@gmail.com)  
-📞 Phone: [+92-3456814624](tel:+923456814624)  
+**Machine Learning Engineer | AI & Data Science Enthusiast | Python Developer | Data Visualization | Web Development | Deep Learning | Generative AI | Django | Streamlit**
 
----
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com) <!-- Update with your actual website -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan/) <!-- Update with your LinkedIn -->
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Update with your actual resume link -->
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Burhan) <!-- Update with your GitHub -->
 
-## 🚀 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burhan_Ul_Din-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-burhangi-black?style=flat&logo=github)](https://github.com/burhangi)
-
----
-
-## 🎯 Summary
-Forward-thinking IT professional specializing in **Python/Django** with expertise in **Machine Learning**, **Deep Learning**, and **Generative AI**. Experienced in creating dynamic web applications and interactive chatbots. Skilled in data visualization and real-time data applications.
-
----
-
-## 🎓 Education
-**BS in Information Technology**  
-Bahauddin Zakariya University, Multan, Pakistan  
-**2020 – 2024**
-
----
-
-## 🛠️ Skills
-
-| Programming Languages | Frameworks            | Machine Learning & AI     | Data Visualization         | Web Development          |
-|-----------------------|-----------------------|---------------------------|----------------------------|--------------------------|
-| Python                | Django                | Machine Learning          | Power BI                   | HTML5                    |
-| JavaScript            | Basic React           | Deep Learning             | Seaborn                    | CSS3                     |
-| OOP                   | React Native          | Generative AI             | Matplotlib                 |                          |
-| DSA                   | Bootstrap             | Hugging Face, OpenAI      | Pandas                     |                          |
-| SQL                   |                       | LangChain, Lama, RAG     | NumPy                      |                          |
-
----
-
-## 📊 Projects
-### 🌟 [Django EShop](https://github.com/burhangi/Django-EShop) (2023)
-A complete e-commerce application built with Django.
-
-### 🌟 [Django EduSite](https://github.com/burhangi/Django-EduSite) (2024)
-An educational platform for online courses.
-
-### 🌟 [Multiple Disease Prediction](https://github.com/burhangi/Disease-Prediction) (2023)
-Machine learning model for predicting various diseases.
-
-### 🌟 [Document QA Chatbot](https://github.com/burhangi/Document-QA-Chatbot) (2024)
-AI-powered chatbot utilizing LangChain and OpenAI for document querying.
-
-### 🌟 [Law GPT](https://github.com/burhangi/Law-GPT) (2024)
-Legal assistance chatbot using AI technologies.
-
-### 🌟 [HealthCare Chatbot](https://github.com/burhangi/Healthcare-Chatbot) (2024)
-Interactive healthcare chatbot powered by AI.
-
-### 🌟 [Amazon Data Analysis Dashboard](https://github.com/burhangi/Amazon-Data-Analysis) (2024)
-A Power BI dashboard for data analysis of Amazon sales.
-
-### 🌟 [Power BI Sales Dashboard](https://github.com/burhangi/Power-BI-Sales-Dashboard) (2024)
-Dashboard for sales visualization and analysis.
-
----
-
-## 💼 Experience
-### 🏢 Python/Django Intern  
-**Enigmatix**, Bahawalpur (2023)  
-- Completed a 3-month internship focusing on Python and Django development.
-- Gained hands-on experience in software development practices.
-
-### 🧠 AI, Machine Learning, and Data Analysis Training  
-**Xeven Solutions**, Lahore (2023)  
-- Studied AI, Machine Learning, Deep Learning, and Data Visualization.
-- Developed chatbots using Hugging Face models, LangChain, and RAG.
-
----
-
-## 🏆 Certifications
-- [Web Application Technologies and Django](https://www.coursera.org/learn/web-applications-django) - University of Michigan
-- [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai) - DeepLearning.AI
-- [A Crash Course in Data Science](https://www.coursera.org/learn/crash-course-data-science) - Johns Hopkins University
-- [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/exploratory-data-analysis) - Coursera
-
----
-
-## 📈 Stats
-![Burhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burhangi&show_icons=true&hide_title=true&count_private=true&theme=radical) <!-- Add your stats image -->
-
----
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h1 align="center">Zaheer UL Deen Babar 🌍</h1>
-
-**Machine Learning Engineer | Software Engineer | Generative AI Practitioner | AI-ML, NLP, LLM | Python | Data Science, Analysis, and Visualizations | Deep Learning | Computer Vision | Image Processing | Hyperspectral Imaging | Medical Imaging**
-
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://dazzling-starship-9657d2.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaheer-ul-deen-650490261/)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://dazzling-starship-9657d2.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/ZaheerUDin957)
-
-📍 **Johar Town, Lahore, Punjab, Pakistan**  
-📞 **+923466420585**  
-📧 **zaheerudin7887@gmail.com**
+📍 **Location: [Your City], [Your Country]**  
+📞 **Contact: [Your Phone Number]** <!-- Update with your actual phone number -->
+📧 **Email: [your.email@example.com]** <!-- Update with your actual email -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,25 +18,25 @@ Dashboard for sales visualization and analysis.
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Public%20Repos-ZaheerUDin957-blue?logo=github" alt="Public Repos" /></td>
-      <td><img src="https://img.shields.io/badge/Gists-ZaheerUDin957-orange?logo=github" alt="Gists" /></td>
-      <td><img src="https://img.shields.io/badge/Commits%20This%20Year-ZaheerUDin957-green?logo=github" alt="Commits" /></td>
-      <td><img src="https://img.shields.io/badge/Pull%20Requests-ZaheerUDin957-red?logo=github" alt="Pull Requests" /></td>
+      <td><img src="https://img.shields.io/badge/Public%20Repos-Burhan-blue?logo=github" alt="Public Repos" /></td>
+      <td><img src="https://img.shields.io/badge/Gists-Burhan-orange?logo=github" alt="Gists" /></td>
+      <td><img src="https://img.shields.io/badge/Commits%20This%20Year-Burhan-green?logo=github" alt="Commits" /></td>
+      <td><img src="https://img.shields.io/badge/Pull%20Requests-Burhan-red?logo=github" alt="Pull Requests" /></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Issues%20Opened-ZaheerUDin957-yellow?logo=github" alt="Issues Opened" /></td>
-      <td><img src="https://img.shields.io/badge/Forks-ZaheerUDin957-lightgrey?logo=github" alt="Forks" /></td>
-      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-ZaheerUDin957-green?logo=github" alt="Contributions" /></td>
+      <td><img src="https://img.shields.io/badge/Issues%20Opened-Burhan-yellow?logo=github" alt="Issues Opened" /></td>
+      <td><img src="https://img.shields.io/badge/Forks-Burhan-lightgrey?logo=github" alt="Forks" /></td>
+      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-Burhan-green?logo=github" alt="Contributions" /></td>
       <td>
-        <a href="https://github.com/sponsors/ZaheerUDin957">
-          <img src="https://img.shields.io/badge/Sponsor-ZaheerUDin957-brightgreen?logo=github-sponsors" alt="Sponsor" />
+        <a href="https://github.com/sponsors/Burhan">
+          <img src="https://img.shields.io/badge/Sponsor-Burhan-brightgreen?logo=github-sponsors" alt="Sponsor" />
         </a>
       </td>
     </tr>
         <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=ZaheerUDin957&color=blueviolet&style=flat-square" alt="Profile views" /></td>
-      <td><img src="https://img.shields.io/github/followers/ZaheerUDin957?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
-      <td><img src="https://img.shields.io/github/stars/ZaheerUDin957?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
+      <td><img src="https://komarev.com/ghpvc/?username=Burhan&color=blueviolet&style=flat-square" alt="Profile views" /></td>
+      <td><img src="https://img.shields.io/github/followers/Burhan?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
+      <td><img src="https://img.shields.io/github/stars/Burhan?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
       <td><img src="https://img.shields.io/badge/Custom-Badge-red" alt="Custom Badge" /></td>
     </tr>
   </table>
@@ -142,42 +47,40 @@ Dashboard for sales visualization and analysis.
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=ZaheerUDin957&show_icons=true&theme=radical" alt="Zaheer's GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Burhan&show_icons=true&theme=radical" alt="Burhan's GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhan&theme=radical" alt="Burhan's GitHub Streak" /></td>
     </tr>
   </table>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaheerUDin957&layout=compact&theme=radical" alt="Zaheer's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan&layout=compact&theme=radical" alt="Burhan's Top Languages" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">🏆 Trophies</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaheerUDin957&theme=radical" alt="Zaheer's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Burhan&theme=radical" alt="Burhan's GitHub Trophies" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">📈 Activity Graph</h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaheerUDin957&bg_color=1a1b27&color=ffffff&line=ff7f50&point=ffffff&area=true&hide_border=true" alt="Zaheer's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Burhan&bg_color=1a1b27&color=ffffff&line=ff7f50&point=ffffff&area=true&hide_border=true" alt="Burhan's GitHub Activity Graph" />
 </p>
-
 
 # 👨‍💼 Professional Background
 
-As a **Machine Learning Engineer** with extensive experience in **AI**, **data science**, and **software development**, I have honed my expertise through:
+As a **Machine Learning Engineer** with a focus on **AI**, **data science**, and **software development**, I have honed my expertise through:
 
-- 🧠 **4 months of intensive AI training**
-- 💻 **Over 6 months of internships across various software development firms**
-- 🎓 **More than a year of teaching and research in advanced image processing and artificial intelligence** at a leading academic institute
+- 🧠 **Hands-on experience in machine learning projects, including predictive modeling and data analysis**
+- 💻 **Strong background in web development using Django and Streamlit for deploying machine learning applications**
+- 🎓 **Continuous learning and adaptation to new technologies in AI and machine learning**
 
 # 🌐 Technical Proficiency
-I possess strong technical skills and hands-on experience with the latest tools in AI, data science, data analysis, data visualization, machine learning, deep learning, computer vision, hyperspectral imaging, digital image processing, generative AI, and Retrieval-Augmented Generation (RAG). My ability to communicate complex concepts clearly allows me to deliver value-driven solutions for research and development that meet both business and academic needs.
+I possess strong technical skills and hands-on experience with the latest tools in AI, data science, data analysis, data visualization, machine learning, deep learning, and generative AI. My ability to communicate complex concepts clearly allows me to deliver value-driven solutions that meet both business and academic needs.
 
 ## 🛠️ Skills & Tools
 
@@ -203,21 +106,26 @@ I possess strong technical skills and hands-on experience with the latest tools 
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F6F?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
 ### 🖼️ **Computer Vision & Image Processing:**
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Pillow](https://img.shields.io/badge/Pillow-FFB0B0?style=flat&logo=python&logoColor=white)](https://python-pillow.org/)
-[![scikit-image](https://img.shields.io/badge/scikit--image-8AB4F8?style=flat&logo=python&logoColor=white)](https://scikit-image.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3D3D?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-9F7C2D?style=flat&logo=pillow&logoColor=white)](https://python-pillow.org/)
 
-### 🤖 **Generative AI & Advanced NLP:**
-[![GPT](https://img.shields.io/badge/GPT-00B2A9?style=flat&logo=openai&logoColor=white)](https://openai.com/gpt)
-[![BERT](https://img.shields.io/badge/BERT-FF0000?style=flat&logo=bert&logoColor=white)](https://github.com/google-research/bert)
-[![RAG](https://img.shields.io/badge/RAG-6D7D8B?style=flat&logo=language&logoColor=white)](https://huggingface.co/docs/transformers/model_doc/rag)
-[![T5](https://img.shields.io/badge/T5-9B59B6?style=flat&logo=language&logoColor=white)](https://huggingface.co/docs/transformers/model_doc/t5)
-[![DALL-E](https://img.shields.io/badge/DALL-E-FF8C00?style=flat&logo=language&logoColor=white)](https://openai.com/dall-e-2)
-[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-333333?style=flat&logo=language&logoColor=white)](https://stablediffusionweb.com/)
-
-### 🚀 **Development & Deployment:**
+### 🌍 **Cloud & Deployment:**
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 Projects & Contributions
+- **[Dynamic Sales Dashboard](https://github.com/Burhan/Dynamic-Sales-Dashboard)** - A comprehensive dashboard for analyzing sales data and visualizing key performance indicators.
+- **[Cancer Classification using CNN](https://github.com/Burhan/Cancer-Classification-CNN)** - A deep learning project for classifying cancer types using Convolutional Neural Networks.
+- **[Sentiment Analysis with Twitter Data](https://github.com/Burhan/Sentiment-Analysis-Twitter)** - A Streamlit app for analyzing Twitter sentiment based on real-time data.
+
+# 📚 Learning & Growth
+I am committed to continuous learning and development in the fields of machine learning and AI. I actively seek out new resources, courses, and opportunities to expand my knowledge and skills. 
+
+# 💬 Let's Connect
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/burhan/) or email me at [your.email@example.com](mailto:your.email@example.com) for collaborations, inquiries, or just to connect!
+
+Thank you for visiting my profile! 🚀
