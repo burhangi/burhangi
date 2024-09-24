@@ -7,7 +7,8 @@
 ## 📚 About Me
 
 I am a **Python/Django & AI Developer** passionate about harnessing technology to create impactful solutions. My expertise lies in **Machine Learning**, **Deep Learning**, and **Generative AI**. I specialize in **Business Intelligence** using **Power BI**.
-![Working on Laptop](https://media.istockphoto.com/id/1192002066/vector/businessman-working-on-laptop.jpg) <!-- Replace this with the direct URL you obtained -->
+<img src="https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg" alt="Modern Tech" width="600" />
+
 
 With a strong foundation in Python and hands-on experience from **Xeven Solutions**, I thrive on solving complex problems and transforming data into actionable insights. My goal is to leverage my skills in AI and data visualization to drive business success.
 
