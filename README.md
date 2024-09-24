@@ -1,10 +1,9 @@
 # 👋 Hi, I'm **Burhan Ul Din** 
-![Profile Banner](https://your-image-url.com/banner-image.png) <!-- Replace with your banner image URL -->
+![Profile Banner](https://your-image-url.com/banner-image.png) <!-- Replace with your actual banner image URL -->
 
 🌍 Based in **Lahore, Punjab, Pakistan**  
 📧 Email: [burhanuldin077@gmail.com](mailto:burhanuldin077@gmail.com)  
 📞 Phone: [+92-3456814624](tel:+923456814624)  
-🔗 [LinkedIn](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) | [Portfolio](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/) | [GitHub](https://github.com/burhangi)
 
 ---
 
@@ -88,9 +87,9 @@ Dashboard for sales visualization and analysis.
 ## 🎉 Let's Connect!
 Feel free to reach out if you're interested in collaboration or learning more about my projects!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burhan_Ul_Din-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange?style=flat)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-burhangi-black?style=flat&logo=github)](https://github.com/burhangi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-burhan-ul-din-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-orange)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/)
 
 ---
 
