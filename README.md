@@ -2,7 +2,7 @@
 
 **Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast | Business Intelligence Expert (Power BI)**
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)]([https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app](https://66f26d21a34b18b3d50ad8a2--lively-sfogliatella-bfa6bb.netlify.app/) <!-- Portfolio link -->
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://66f26d21a34b18b3d50ad8a2--lively-sfogliatella-bfa6bb.netlify.app/) <!-- Portfolio link -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) <!-- LinkedIn -->
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/burhangi/burhangi/blob/main/README.md) <!-- GitHub -->
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Resume link (if applicable) -->
