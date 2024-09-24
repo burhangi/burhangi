@@ -6,13 +6,16 @@
 
 ## 📚 About Me
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin: 20px 0;">
   <div style="flex: 1; padding-right: 20px;">
     <p>
-      I am a <strong>Python/Django & AI Developer</strong> passionate about harnessing technology to create impactful solutions. My expertise lies in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Generative AI</strong>. I specialize in <strong>Business Intelligence</strong> using <strong>Power BI</strong>.
+      I am a <strong>Python/Django & AI Developer</strong> passionate about harnessing technology to create impactful solutions. With expertise in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Generative AI</strong>, I focus on developing innovative applications that solve real-world problems.
     </p>
     <p>
-      With a strong foundation in Python and hands-on experience from <strong>Xeven Solutions</strong>, I thrive on solving complex problems and transforming data into actionable insights. My goal is to leverage my skills in AI and data visualization to drive business success.
+      My specialization in <strong>Business Intelligence</strong> using <strong>Power BI</strong> enables me to transform complex data into insightful visualizations that drive decision-making. With a solid foundation in Python and practical experience gained from my work at <strong>Xeven Solutions</strong>, I enjoy tackling challenging problems and leveraging data for business success.
+    </p>
+    <p>
+      I believe in the power of collaboration and continuous learning, and I am always eager to explore new technologies and methodologies to enhance my skill set. My goal is to create solutions that not only meet business needs but also positively impact users.
     </p>
   </div>
   <div style="flex: 1;">
@@ -21,6 +24,7 @@
 </div>
 
 ---
+
 
 
 ## 🛠️ Key Skills
