@@ -6,13 +6,22 @@
 
 ## 📚 About Me
 
-I am a **Python/Django & AI Developer** passionate about harnessing technology to create impactful solutions. My expertise lies in **Machine Learning**, **Deep Learning**, and **Generative AI**. I specialize in **Business Intelligence** using **Power BI**.
-<img src="https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg" alt="Modern Tech" width="400"  height:400/>
-
-
-With a strong foundation in Python and hands-on experience from **Xeven Solutions**, I thrive on solving complex problems and transforming data into actionable insights. My goal is to leverage my skills in AI and data visualization to drive business success.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      I am a <strong>Python/Django & AI Developer</strong> passionate about harnessing technology to create impactful solutions. My expertise lies in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Generative AI</strong>. I specialize in <strong>Business Intelligence</strong> using <strong>Power BI</strong>.
+    </p>
+    <p>
+      With a strong foundation in Python and hands-on experience from <strong>Xeven Solutions</strong>, I thrive on solving complex problems and transforming data into actionable insights. My goal is to leverage my skills in AI and data visualization to drive business success.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg" alt="Modern Tech" width="100%" style="border-radius: 10px;"/>
+  </div>
+</div>
 
 ---
+
 
 ## 🛠️ Key Skills
 
