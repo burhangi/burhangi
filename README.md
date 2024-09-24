@@ -3,27 +3,27 @@
 ![Avatar](https://your-avatar-image-url) <!-- Replace with your actual image URL -->
 
 **Python/Django & AI Developer**  
-Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast  
-Business Intelligence Expert (Power BI)
+*Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast*  
+*Business Intelligence Expert (Power BI)*
 
 ---
 
 ## 📚 About Me
 
-I am a passionate IT graduate with expertise in Python, Django, and Machine Learning, specializing in Business Intelligence using Power BI and Generative AI. I have undergone professional AI training from Xeven Solutions, where I gained hands-on experience with cutting-edge technologies and tools.
+I am a passionate IT graduate with expertise in **Python**, **Django**, and **Machine Learning**, specializing in **Business Intelligence** using **Power BI** and **Generative AI**. My professional AI training at **Xeven Solutions** equipped me with hands-on experience in cutting-edge technologies and tools.
 
 ---
 
 ## 🛠️ Key Skills
 
-| Skill Category | Skills |
-|----------------|--------|
-| **Programming Languages** | Python, JavaScript, SQL |
-| **Web Development** | Django, HTML5, CSS3, Basic React, React Native, Bootstrap |
-| **Machine Learning** | Deep Learning, Generative AI (Hugging Face, OpenAI, Basic LangChain, Llama) |
-| **Data Visualization** | Power BI, Seaborn, Matplotlib, Pandas, NumPy, TensorFlow |
-| **Data Analytics** | EDA, Power BI |
-| **Databases** | SQL, SQLite |
+| Skill Category       | Skills                                                            |
+|----------------------|-------------------------------------------------------------------|
+| **Programming**      | Python, JavaScript, SQL                                           |
+| **Web Development**  | Django, HTML5, CSS3, Basic React, React Native, Bootstrap        |
+| **Machine Learning**  | Deep Learning, Generative AI (Hugging Face, OpenAI, LangChain)   |
+| **Data Visualization**| Power BI, Seaborn, Matplotlib, Pandas, NumPy, TensorFlow         |
+| **Data Analytics**   | Exploratory Data Analysis (EDA), Power BI                        |
+| **Databases**        | SQL, SQLite                                                      |
 
 ---
 
@@ -48,14 +48,16 @@ I am a passionate IT graduate with expertise in Python, Django, and Machine Lear
 
 ## 💡 Projects
 
-- **[Django EShop 2023](#)**
-- **[Django EduSite 2024](#)**
-- **[Multiple Disease Prediction using Machine Learning 2023](#)**
-- **[Document QA Chatbot using LangChain, OpenAI, and Hugging Face (Streamlit) 2024](#)**
-- **[Law GPT using LangChain, OpenAI, and Hugging Face (Streamlit) 2024](#)**
-- **[HealthCare Chatbot using LangChain, OpenAI, and Streamlit 2024](#)**
-- **[Amazon Data Analysis Power BI Dashboard 2024](#)**
-- **[Power BI Sales Dashboard](#)**
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Django EShop | E-commerce platform built using Django | [View Project](#) |
+| Django EduSite | Educational platform for online courses | [View Project](#) |
+| Disease Prediction | Machine Learning model for disease prediction | [View Project](#) |
+| Document QA Chatbot | Chatbot using LangChain, OpenAI, and Hugging Face | [View Project](#) |
+| Law GPT | Legal GPT using LangChain and OpenAI | [View Project](#) |
+| Healthcare Chatbot | Chatbot for healthcare queries using AI | [View Project](#) |
+| Amazon Data Analysis | Power BI dashboard for Amazon sales data | [View Project](#) |
+| Power BI Sales Dashboard | Sales analytics dashboard in Power BI | [View Project](#) |
 
 ---
 
@@ -68,7 +70,14 @@ I am a passionate IT graduate with expertise in Python, Django, and Machine Lear
 
 ---
 
-## 📞 Connect with Me
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact) <!-- Replace with your GitHub username -->
+
+---
+
+## 🌍 Connect with Me
 
 <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
@@ -76,7 +85,7 @@ I am a passionate IT graduate with expertise in Python, Django, and Machine Lear
 
 ---
 
-## 🌍 Looking for Opportunities
+## 🌟 Looking for Opportunities
 
 I am currently seeking opportunities in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Business Intelligence** to leverage my skills in creating impactful solutions.
 
