@@ -2,11 +2,11 @@
 
 **Machine Learning Engineer | AI & Data Science Enthusiast | Python Developer | Data Visualization | Web Development | Deep Learning | Generative AI | Django | Streamlit**
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://yourwebsite.com) <!-- Update with your actual website -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan/) <!-- Update with your LinkedIn -->
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Update with your actual resume link -->
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Burhan) <!-- Update with your GitHub -->
-
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://66f25f149d424c981fd5c6b5--cosmic-blancmange-c3f6b1.netlify.app/) <!-- Portfolio link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) <!-- LinkedIn -->
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/burhangi/burhangi/blob/main/README.md) <!-- GitHub -->
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Resume link (if applicable) -->
+  
 📍 **Location: [Your City], [Your Country]**  
 📞 **Contact: [Your Phone Number]** <!-- Update with your actual phone number -->
 📧 **Email: [your.email@example.com]** <!-- Update with your actual email -->
@@ -26,14 +26,14 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Issues%20Opened-Burhan-yellow?logo=github" alt="Issues Opened" /></td>
       <td><img src="https://img.shields.io/badge/Forks-Burhan-lightgrey?logo=github" alt="Forks" /></td>
-      <td><img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-Burhan-green?logo=github" alt="Contributions" /></td>
+      <td><img src="https://img.shields.io/badge/Contributions-Burhan-green?logo=github" alt="Contributions" /></td>
       <td>
         <a href="https://github.com/sponsors/Burhan">
           <img src="https://img.shields.io/badge/Sponsor-Burhan-brightgreen?logo=github-sponsors" alt="Sponsor" />
         </a>
       </td>
     </tr>
-        <tr>
+    <tr>
       <td><img src="https://komarev.com/ghpvc/?username=Burhan&color=blueviolet&style=flat-square" alt="Profile views" /></td>
       <td><img src="https://img.shields.io/github/followers/Burhan?label=Followers&style=flat-square&color=green" alt="GitHub Followers" /></td>
       <td><img src="https://img.shields.io/github/stars/Burhan?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" /></td>
@@ -103,29 +103,31 @@ I possess strong technical skills and hands-on experience with the latest tools 
 ### 📈 **Data Visualization:**
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-9C3D7F?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F6F?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
-
-### 🖼️ **Computer Vision & Image Processing:**
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3D3D?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Pillow](https://img.shields.io/badge/Pillow-9F7C2D?style=flat&logo=pillow&logoColor=white)](https://python-pillow.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-DA3B29?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 ### 🌍 **Cloud & Deployment:**
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🚀 Projects & Contributions
-- **[Dynamic Sales Dashboard](https://github.com/Burhan/Dynamic-Sales-Dashboard)** - A comprehensive dashboard for analyzing sales data and visualizing key performance indicators.
-- **[Cancer Classification using CNN](https://github.com/Burhan/Cancer-Classification-CNN)** - A deep learning project for classifying cancer types using Convolutional Neural Networks.
-- **[Sentiment Analysis with Twitter Data](https://github.com/Burhan/Sentiment-Analysis-Twitter)** - A Streamlit app for analyzing Twitter sentiment based on real-time data.
+# 🚀 Projects
+- **[Django EShop 2023](#projects)** - A Django-based e-commerce platform featuring user accounts, product listings, and secure checkout.
+- **[Django EduSite 2024](#projects)** - An educational platform built with Django for delivering online courses, including user management and course content.
+- **[Multiple Disease Prediction using Machine Learning 2023](#projects)** - A machine learning project for predicting multiple diseases using patient data.
+- **[Document QA Chatbot using LangChain, OpenAI, and Hugging Face Streamlit 2024](#projects)** - A chatbot application that utilizes LangChain and OpenAI for document question-answering.
+- **[Law GPT using LangChain, OpenAI, and Hugging Face Streamlit 2024](#projects)** - An AI-powered legal assistant using LangChain and OpenAI to answer legal questions.
+- **[HealthCare Chatbot using LangChain, OpenAI, and Streamlit 2024](#projects)** - A healthcare chatbot application designed to assist users with medical inquiries.
+- **[Amazon Data Analysis Power BI Dashboard 2024](#projects)** - A Power BI dashboard for analyzing sales data from Amazon, featuring interactive visualizations.
+- **[Power BI Sales Dashboard](#projects)** - A comprehensive dashboard for tracking and analyzing sales performance over time.
 
 # 📚 Learning & Growth
 I am committed to continuous learning and development in the fields of machine learning and AI. I actively seek out new resources, courses, and opportunities to expand my knowledge and skills. 
 
 # 💬 Let's Connect
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/burhan/) or email me at [your.email@example.com](mailto:your.email@example.com) for collaborations, inquiries, or just to connect!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) or email me at [your.email@example.com](mailto:your.email@example.com) for collaborations, inquiries, or just to connect!
 
 Thank you for visiting my profile! 🚀
