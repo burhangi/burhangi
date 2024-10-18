@@ -1,8 +1,8 @@
 <h1 align="center">Burhan 🧑‍💻</h1>
 
-**Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI Enthusiast | Business Intelligence Expert (Power BI)**
+**Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI | Business Intelligence  (Power BI)**
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://66f26d21a34b18b3d50ad8a2--lively-sfogliatella-bfa6bb.netlify.app/) <!-- Portfolio link -->
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://earnest-moonbeam-12f417.netlify.app/) <!-- Portfolio link -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) <!-- LinkedIn -->
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/burhangi/burhangi/blob/main/README.md) <!-- GitHub -->
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Resume link (if applicable) -->
@@ -84,14 +84,20 @@ I possess strong technical skills and hands-on experience with the latest tools 
 
 ## 🛠️ Skills & Tools
 
-### 🖥️ **Programming Languages:**
+
+## 🖥️ **Programming Languages:**
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 📚 **Libraries:**
+---
+
+## 📚 **Libraries and Frameworks:**
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -99,6 +105,12 @@ I possess strong technical skills and hands-on experience with the latest tools 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=flat&logo=language&logoColor=white)](https://www.langchain.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4F7C14?style=flat&logo=llama&logoColor=white)](https://www.llamaindex.com/)
+
+---
+
+## 🌐 **Django Framework Setup**  
+
+This section demonstrates how to install and set up Django for web development projects.
 
 ### 📈 **Data Visualization:**
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
