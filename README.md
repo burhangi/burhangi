@@ -125,16 +125,16 @@ I possess strong technical skills and hands-on experience with the latest tools 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # 🚀 Projects
-- **[Django EShop 2023](#https://github.com/burhangi/Django-EShop-website/blob/main/README.md)** - A Django-based e-commerce platform featuring user accounts, product listings, and secure checkout.
-- **[Django EduSite 2024](#https://github.com/burhangi/Django-Course-Selling-web/blob/main/README.md)** - An educational platform built with Django for delivering online courses, including user management and course content.
-- **[Multiple Disease Prediction using Machine Learning 2023](#https://github.com/burhangi/Disease-Detector/blob/main/README.md)** - A machine learning project for predicting multiple diseases using patient data.
-- **[Document QA Chatbot using LangChain, OpenAI, and Hugging Face Streamlit 2024](#projects)** - A chatbot application that utilizes LangChain and OpenAI for document question-answering.
-- **[Law GPT using LangChain, OpenAI, and Hugging Face Streamlit 2024](#https://github.com/burhangi/lawGPT/blob/main/README.md)** - An AI-powered legal assistant using LangChain and OpenAI to answer legal questions.
-- **[HealthCare Chatbot using LangChain, OpenAI, and Streamlit 2024](#https://github.com/burhangi/HealthCareBot/blob/main/README.md)** - A healthcare chatbot application designed to assist users with medical inquiries.
-- **[Amazon Data Analysis Power BI Dashboard 2024](#projects)** - A Power BI dashboard for analyzing sales data from Amazon, featuring interactive visualizations.
-- **[Power BI Sales Dashboard](#projects)** - A comprehensive dashboard for tracking and analyzing sales performance over time.
+- **[Django EShop 2023](https://github.com/burhangi/Django-EShop-website/blob/main/README.md)** - A Django-based e-commerce platform featuring user accounts, product listings, and secure checkout.
+- **[Django EduSite 2024](https://github.com/burhangi/Django-Course-Selling-web/blob/main/README.md)** - An educational platform built with Django for delivering online courses, including user management and course content.
+- **[Multiple Disease Prediction using Machine Learning 2023](https://github.com/burhangi/Disease-Detector/blob/main/README.md)** - A machine learning project for predicting multiple diseases using patient data.
+- **[Document QA Chatbot using LangChain, OpenAI, and Hugging Face Streamlit 2024](https://github.com/burhangi/Document-QA-Chatbot)** - A chatbot application that utilizes LangChain and OpenAI for document question-answering.
+- **[Law GPT using LangChain, OpenAI, and Hugging Face Streamlit 2024](https://github.com/burhangi/lawGPT/blob/main/README.md)** - An AI-powered legal assistant using LangChain and OpenAI to answer legal questions.
+- **[HealthCare Chatbot using LangChain, OpenAI, and Streamlit 2024](https://github.com/burhangi/HealthCareBot/blob/main/README.md)** - A healthcare chatbot application designed to assist users with medical inquiries.
+- **[Amazon Data Analysis Power BI Dashboard 2024](https://github.com/burhangi/Amazon-Data-Analysis-Dashboard)** - A Power BI dashboard for analyzing sales data from Amazon, featuring interactive visualizations.
+- **[Power BI Sales Dashboard](https://github.com/burhangi/Power-BI-Sales-Dashboard)** - A comprehensive dashboard for tracking and analyzing sales performance over time.
+
 
 # 📚 Learning & Growth
 I am committed to continuous learning and development in the fields of machine learning and AI. I actively seek out new resources, courses, and opportunities to expand my knowledge and skills. 
