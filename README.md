@@ -1,6 +1,6 @@
 <h1 align="center">Burhan 🧑‍💻</h1>
 
-![My Banner](https://www.canva.com/design/DAGT50xxM_I/uXcwoqBpzJ2xvievbaeyCQ/edit?utm_content=DAGT50xxM_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Replace with your actual image URL -->
+![My Banner](https://github.com/burhangi/Pneumonia-Classification/blob/main/mybanner.png) <!-- Replace with your actual image URL -->
 
 **Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI | Business Intelligence (Power BI)**
 
