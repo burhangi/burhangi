@@ -1,11 +1,14 @@
 <h1 align="center">Burhan 🧑‍💻</h1>
 
-**Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI | Business Intelligence  (Power BI)**
+![My Banner](C:\Users\Zaheer\Downloads\mybanner.png) <!-- Replace with your actual image URL -->
+
+**Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI | Business Intelligence (Power BI)**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://earnest-moonbeam-12f417.netlify.app/) <!-- Portfolio link -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/burhan-ul-din-2124a8258/) <!-- LinkedIn -->
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/burhangi/burhangi/blob/main/README.md) <!-- GitHub -->
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://yourwebsite.com/resume.pdf) <!-- Resume link (if applicable) -->
+
   
 📍 **Location: [Lahore ], [Pakistan]**  
 📞 **Contact: [03456814624]** <!-- Update with your actual phone number -->
