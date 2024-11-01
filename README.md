@@ -1,6 +1,6 @@
 
 
-![My Banner](https://github.com/burhangi/Pneumonia-Classification/blob/main/mybanner.png) <!-- Replace with your actual image URL -->
+![My Banner]([https://github.com/burhangi/Pneumonia-Classification/blob/main/mybanner.png](https://github.com/burhangi/burhangi/blob/main/1.png)) <!-- Replace with your actual image URL -->
 <h1 align="center">Burhan 🧑‍💻</h1>
 
 **Python/Django & AI Developer | Specialized in Machine Learning, Deep Learning, & Generative AI | Business Intelligence (Power BI)**
