@@ -1,5 +1,5 @@
 
-![My Banner](https://github.com/burhangi/Pneumonia-Classification/blob/main/mybanner.png)
+![My Banner](https://github.com/burhangi/burhangi/blob/main/1.png)
 
 <h1 align="center">Burhan 🧑‍💻</h1>
 
