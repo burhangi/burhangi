@@ -1,5 +1,5 @@
 
-![My Banner](https://github.com/burhangi/burhangi/blob/main/ChatGPT%20Image%20Aug%2012%2C%202025%2C%2012_14_36%20PM%20(1).png))
+![My Banner](https://github.com/burhangi/burhangi/blob/main/2.png))
 
 <h1 align="center">Burhan 🧑‍💻</h1>
 
